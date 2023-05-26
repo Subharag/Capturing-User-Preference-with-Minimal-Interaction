@@ -1,5 +1,5 @@
 # Capturing-User-Preference-with-Minimal-Interaction
-Each Directory requires the dataset file to run the code.
+Each Directory requires the dataset file to run the code.\n
 Abulation --> data_sorted.npy
 Architecture --> data_sorted.npy
 Conditional GAN--> data.npy
